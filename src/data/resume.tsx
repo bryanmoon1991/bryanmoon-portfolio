@@ -81,8 +81,8 @@ export const DATA = {
       location: 'Queens, NY',
       title: 'Associate Frontend Developer',
       logoUrl: '/abclogo.png',
-      start: 'March 2015',
-      end: 'June 2015',
+      start: 'March 2021',
+      end: 'June 2021',
       description:
         'Wrote unit tests for the frontend using Jest and React Testing Library, and helped build reusable frontend components in Vue.',
     },
