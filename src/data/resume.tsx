@@ -31,7 +31,7 @@ export const DATA = {
   ],
   navbar: [
     { href: '/', icon: HomeIcon, label: 'Home' },
-    { href: "/bryanmoon_resume2024.pdf", icon: DownloadIcon, label: "Resume" },
+    { href: "/bryanmoon_resume2025.pdf", icon: DownloadIcon, label: "Resume" },
   ],
   contact: {
     email: 'nokcha389@gmail.com',
@@ -84,7 +84,7 @@ export const DATA = {
       start: 'March 2021',
       end: 'June 2021',
       description:
-        'Wrote unit tests for the frontend using Jest and React Testing Library, and helped build reusable frontend components in Vue.',
+        'Wrote unit tests for the frontend using Jest Testing Library, and helped build reusable frontend components in Vue.',
     },
     {
       company: 'Kichin',
